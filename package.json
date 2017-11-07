@@ -1,0 +1,13 @@
+{
+  "name": "default",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/joebaer/default.git",
+  "author": "joebaer <michael.friedl@live.de>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "materialize-css": "^0.100.2",
+    "pixi.js": "^4.6.0"
+  }
+}
